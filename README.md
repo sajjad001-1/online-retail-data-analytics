@@ -41,9 +41,9 @@ comparisons.
 
 ## Key Findings
 
--   **Finding 1:** \[Add a verified result.\]
--   **Finding 2:** \[Add a verified result.\]
--   **Finding 3:** \[Add a verified result.\]
+-   **Finding 1:** \[Wholesale purchasers generate more Revenue compared to Retail ones.\]
+-   **Finding 2:** \[Guests Transactions are more compared to Registered Profiles.\]
+-   **Finding 3:** \[United Kingdom is the Master Market Base which constitutes to >85% of Total Volume.\]
 
 Do not add estimated or invented figures.
 
